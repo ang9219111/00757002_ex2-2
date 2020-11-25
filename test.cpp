@@ -5,6 +5,7 @@ int main()
 {
 	///////
 	//////
+	////////adsadasdad/////
                 system("pause");
     return 0;
 }
